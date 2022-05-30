@@ -16,7 +16,7 @@ const CONFIG = {
     btnYes: 'G có :<',
     btnNo: 'Không',
     question:'Thương G quá bị vậy lâu chưa =)))',
-    btnReply: 'Gửi',
+    btnReply: 'Gửi.',
     reply: 'Bẩm sinh gòiii :<',
     mess: ' Biết ngay mà =))',
     messDesc: 'Liệu G có thể xuống ngồi cùng t để giải cứu t khỏi bọn cgai khác k :D'
