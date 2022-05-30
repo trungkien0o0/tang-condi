@@ -12,7 +12,7 @@ const CONFIG = {
     introDesc: `Cái web đáng ghét+ đáng bị loại bỏ này đã tổn của t cả buổi chiều,mong G chân thành trả lời'
     btnIntro: 'Đồng ý',
     title: 'G ngoo phải khum :> ',
-    desc: 'K trả lời là có. ',
+    desc: 'G ngoo phải khum :>',
     btnYes: 'G có :<',
     btnNo: 'Không',
     question:'Thương G quá bị vậy lâu chưa =)))',
