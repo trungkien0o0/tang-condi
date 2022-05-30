@@ -4,7 +4,7 @@ const CONFIG = {
     btnIntro: 'Đồng ý',
     title: 'G ngoo phải khum :>',
     desc: 'K trả lời là có. ',
-    btnYes: 'G có :<',
+    btnYes: 'Đúng gòii :<',
     btnNo: 'Không'
     question:'Thương G quá bị vậy lâu chưa =)))',
     btnReply: 'Gửi',
