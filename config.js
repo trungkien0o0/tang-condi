@@ -1,19 +1,17 @@
 const CONFIG = {
     introTitle: 'gửi condi!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'G bị ngoo phải k :D',
-    desc: 'G có biết mình dễ ghét lắm k =)) ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    introDesc: `Cái web đáng ghét+ đáng bị loại bỏ này đã tổn của t cả buổi chiều,mong G chân thành trả lời`,
+    btnIntro: 'Đồng ý',
+    title: 'G ngoo phải khum :>',
+    desc: 'K trả lời là có. ',
+    btnYes: 'G có :<',
+    btnNo: 'Không'
+    question:'Thương G quá bị vậy lâu chưa =)))',
+    btnReply: 'Gửi',
+    reply: 'Bẩm sinh gòiii :<',
+    mess: ' Biết ngay mà =))',
+    messDesc: 'Liệu G có thể xuống ngồi cùng t để giải cứu t khỏi bọn cgai k :D'
+    btnAccept: 'Okiiiii ',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
+```
